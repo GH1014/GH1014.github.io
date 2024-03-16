@@ -231,7 +231,9 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
+  footer: ``,
 
+  enablePWA: true,
 };
 
 export default CONFIG;
