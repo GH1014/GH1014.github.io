@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Rtu Gihyeon',
+    title: 'Portfolio of Ryu Gihyeon',
     description: '',
     imageURL: '',
   },
@@ -156,8 +156,8 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 0, // How many articles to display. Max is 10.
+    username: '', // to hide blog section, keep it empty
+    limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
@@ -231,13 +231,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
-      class="text-primary" href="https://github.com/GH1014/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
 
-  enablePWA: true,
 };
 
 export default CONFIG;
