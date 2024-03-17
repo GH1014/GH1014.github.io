@@ -65,20 +65,13 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Java',
+    'Android studio',
+    'C++',
+    'Unity',
+    'Unreal Engine',
+    'Kotlin',
+    'Mysql ',
   ],
   experiences: [
     {
@@ -96,14 +89,7 @@ const CONFIG = {
       companyLink: 'https://example.com',
     },
   ],
-  certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
-  ],
+
   educations: [
     {
       institution: 'Institution Name',
