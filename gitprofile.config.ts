@@ -57,8 +57,8 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    phone: '010-5430-5980',
+    email: 'dbrlgus8@naver.com',
   },
   resume: {
     fileUrl:
