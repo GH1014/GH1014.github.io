@@ -33,11 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: '임베디드 자유공모',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://drive.google.com/file/d/1ha06DV58FHeX5KRzV3FffV8zGOYIjXeS/view?usp=sharing',
           link: 'https://drive.google.com/file/d/1ojFIXHWHfNID4Vu90l6iXOVZxM6sOPDw/view?usp=sharing',
         },
         {
