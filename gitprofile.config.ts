@@ -71,14 +71,13 @@ const CONFIG = {
     'Kotlin',
     'Android studio',
     'Unity',
-    'Unreal Engine',
     'Mysql ',
     'Php ',
   ],
 
   educations: [
     {
-      institution: '공주대학교',
+      institution: '공주대학교 소프트웨어 공학 전공',
       degree: '학사 졸업',
       from: '2017',
       to: '2023',
