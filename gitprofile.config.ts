@@ -35,9 +35,9 @@ const CONFIG = {
         {
           title: '임베디드 자유공모',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '임베디드 소프트웨어 경진대회에서 최우수상(장관상)을 수상한 프로젝트입니다. 전기차 충전소 이용에 주요 불편사항을 해결하기 위해 제작되었습니다. (사진을 클릭 시 자세한 내용을 볼 수 있습니다.) ',
           imageUrl:
-            'https://drive.google.com/file/d/1ha06DV58FHeX5KRzV3FffV8zGOYIjXeS/view?usp=sharing',
+            'https://ibb.co/PtCj5gy',
           link: 'https://drive.google.com/file/d/1ojFIXHWHfNID4Vu90l6iXOVZxM6sOPDw/view?usp=sharing',
         },
         {
