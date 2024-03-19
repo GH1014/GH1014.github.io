@@ -72,7 +72,9 @@ const CONFIG = {
     'Android studio',
     'Unity',
     'Mysql ',
+    'Firebase ',
     'Php ',
+    'HTML ',
   ],
 
   educations: [
