@@ -77,6 +77,13 @@ const CONFIG = {
     'HTML ',
   ],
 
+  Awards: [
+    {
+      임베디드 소프트웨어 경진대회
+      자유공모 최우수상(장관상) 수상
+    },
+  ],
+
   educations: [
     {
       institution: '공주대학교 소프트웨어 공학 전공',
