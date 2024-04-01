@@ -29,7 +29,7 @@ const ListItem = ({
 );
 
 const CertificationCard = ({
-  Awards,
+  certifications,
   loading,
 }: {
   certifications: SanitizedCertification[];

@@ -77,10 +77,19 @@ const CONFIG = {
     'HTML ',
   ],
 
+  certifications: [
+    {
+      name: '임베디드 소프트웨어 경진대회',
+      body: '자유공모 최우수상(장관상) 수상',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+  ],
+
   Awards: [
     {
-      임베디드 소프트웨어 경진대회
-      자유공모 최우수상(장관상) 수상
+      
+     
     },
   ],
 
