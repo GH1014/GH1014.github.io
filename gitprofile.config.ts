@@ -86,13 +86,6 @@ const CONFIG = {
     },
   ],
 
-  Awards: [
-    {
-      
-     
-    },
-  ],
-
   educations: [
     {
       institution: '공주대학교 소프트웨어 공학 전공',
