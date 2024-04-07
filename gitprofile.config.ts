@@ -43,7 +43,7 @@ const CONFIG = {
         {
           title: '밀알두레',
           description:
-            '공주대학교 연구동아리 "밀알두레"에서 제작된 프로젝트 입니다.  임베디드 장치와 안드로이드를 활용해 도난 방지 시스템을 제작하였습니다.  (클릭 시 자세한 내용을 볼 수 있습니다.)',
+            '공주대학교 연구동아리 "밀알두레"에서 제작된 프로젝트 입니다. <br> 임베디드 장치와 안드로이드를 활용해 도난 방지 시스템을 제작하였습니다.  (클릭 시 자세한 내용을 볼 수 있습니다.)',
           imageUrl:
             'https://i.imgur.com/Vu6hdhD.png',
           link: 'https://drive.google.com/file/d/1vPd2_ymFclL5OR_p2DG9NGO6rqNb8ih3/view?usp=sharing',
