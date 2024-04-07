@@ -50,6 +50,14 @@ const CONFIG = {
             'https://i.imgur.com/Vu6hdhD.png',
           link: 'https://drive.google.com/file/d/1vPd2_ymFclL5OR_p2DG9NGO6rqNb8ih3/view?usp=sharing',
         },
+        {
+          title: '한이음',
+          description:
+            '한이음에서 진행된 프로젝트입니다. 영상처리와 딥러닝을 이용해 첨단운전자보조시스템(ADAS) 서비스를 제작하였습니다.  (클릭 시 자세한 내용을 볼 수 있습니다.)',
+          imageUrl:
+            'https://i.imgur.com/36S13Ei.png',
+          link: 'https://drive.google.com/file/d/1-ORiE2W4dStpg02nIvbe9sxyMaeuldib/view?usp=sharing',
+        },
       ],
     },
 
@@ -77,6 +85,7 @@ const CONFIG = {
     'Firebase ',
     'Php ',
     'HTML ',
+    'Linux'
   ],
 
   certifications: [
