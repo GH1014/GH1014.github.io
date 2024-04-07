@@ -104,7 +104,7 @@ const GithubProjectCard = ({
               </div>
             </div>
             <p className="mb-5 mt-1 text-base-content text-opacity-60 text-sm">
-              <br>dsdsds</br>
+              {item.name}
             </p>
           </div>
           <div className="flex justify-between text-sm text-base-content text-opacity-60 truncate">
