@@ -53,7 +53,7 @@ const CONFIG = {
         {
           title: '한이음',
           description:
-            '한이음에서 진행된 프로젝트입니다. 영상처리와 딥러닝을 이용해 첨단운전자보조시스템(ADAS) 서비스를 제작하는 프로젝트에 참여했습니다.  (클릭 시 자세한 내용을 볼 수 있습니다.)',
+            '한이음에서 진행된 프로젝트입니다. 영상처리와 딥러닝을 이용해 첨단운전자보조시스템 (ADAS) 서비스를 제작하는 프로젝트에 참여했습니다.  (클릭 시 자세한 내용을 볼 수 있습니다.)',
           imageUrl:
             'https://i.imgur.com/36S13Ei.png',
           link: 'https://drive.google.com/file/d/1-ORiE2W4dStpg02nIvbe9sxyMaeuldib/view?usp=sharing',
